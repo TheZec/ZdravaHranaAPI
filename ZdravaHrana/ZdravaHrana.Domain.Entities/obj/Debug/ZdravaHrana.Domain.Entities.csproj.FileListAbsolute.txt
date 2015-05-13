@@ -1,0 +1,10 @@
+C:\Users\Aleksandar\development\android\AndroidProjects\ZdravaHrana\API\ZdravaHrana\ZdravaHrana.Domain.Entities\bin\Debug\ZdravaHrana.Domain.Entities.dll
+C:\Users\Aleksandar\development\android\AndroidProjects\ZdravaHrana\API\ZdravaHrana\ZdravaHrana.Domain.Entities\bin\Debug\ZdravaHrana.Domain.Entities.pdb
+C:\Users\Aleksandar\development\android\AndroidProjects\ZdravaHrana\API\ZdravaHrana\ZdravaHrana.Domain.Entities\obj\Debug\ZdravaHrana.Domain.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\development\android\AndroidProjects\ZdravaHrana\API\ZdravaHrana\ZdravaHrana.Domain.Entities\obj\Debug\ZdravaHrana.Domain.Entities.dll
+C:\Users\Aleksandar\development\android\AndroidProjects\ZdravaHrana\API\ZdravaHrana\ZdravaHrana.Domain.Entities\obj\Debug\ZdravaHrana.Domain.Entities.pdb
+C:\Users\Aleksandar\Documents\GitHub\ZdravaHranaAPI\ZdravaHrana\ZdravaHrana.Domain.Entities\bin\Debug\ZdravaHrana.Domain.Entities.dll
+C:\Users\Aleksandar\Documents\GitHub\ZdravaHranaAPI\ZdravaHrana\ZdravaHrana.Domain.Entities\bin\Debug\ZdravaHrana.Domain.Entities.pdb
+C:\Users\Aleksandar\Documents\GitHub\ZdravaHranaAPI\ZdravaHrana\ZdravaHrana.Domain.Entities\obj\Debug\ZdravaHrana.Domain.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandar\Documents\GitHub\ZdravaHranaAPI\ZdravaHrana\ZdravaHrana.Domain.Entities\obj\Debug\ZdravaHrana.Domain.Entities.dll
+C:\Users\Aleksandar\Documents\GitHub\ZdravaHranaAPI\ZdravaHrana\ZdravaHrana.Domain.Entities\obj\Debug\ZdravaHrana.Domain.Entities.pdb

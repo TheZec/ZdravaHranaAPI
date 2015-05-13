@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZdravaHrana", "ZdravaHrana\ZdravaHrana.csproj", "{64CC3EF6-ADBC-4A81-8787-6D477CC2E14B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{F40D01F6-537C-4653-80B3-395A12C32230}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{AB95A4E6-5497-40C5-A5BE-B82D9447C76D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{B0E8B815-B628-480F-B876-BBA5472C7CBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZdravaHrana.Domain.Entities", "ZdravaHrana.Domain.Entities\ZdravaHrana.Domain.Entities.csproj", "{103CD242-D5EF-4DDD-BD91-C56F5F586FA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZdravaHrana.Infrastructure.DataSql", "ZdravaHrana.Infrastructure.DataSql\ZdravaHrana.Infrastructure.DataSql.csproj", "{2A0F699D-7E93-46B2-8230-F70DE7C408D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64CC3EF6-ADBC-4A81-8787-6D477CC2E14B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64CC3EF6-ADBC-4A81-8787-6D477CC2E14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64CC3EF6-ADBC-4A81-8787-6D477CC2E14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64CC3EF6-ADBC-4A81-8787-6D477CC2E14B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{103CD242-D5EF-4DDD-BD91-C56F5F586FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103CD242-D5EF-4DDD-BD91-C56F5F586FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103CD242-D5EF-4DDD-BD91-C56F5F586FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103CD242-D5EF-4DDD-BD91-C56F5F586FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A0F699D-7E93-46B2-8230-F70DE7C408D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0F699D-7E93-46B2-8230-F70DE7C408D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0F699D-7E93-46B2-8230-F70DE7C408D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0F699D-7E93-46B2-8230-F70DE7C408D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{64CC3EF6-ADBC-4A81-8787-6D477CC2E14B} = {F40D01F6-537C-4653-80B3-395A12C32230}
+		{103CD242-D5EF-4DDD-BD91-C56F5F586FA7} = {AB95A4E6-5497-40C5-A5BE-B82D9447C76D}
+		{2A0F699D-7E93-46B2-8230-F70DE7C408D1} = {B0E8B815-B628-480F-B876-BBA5472C7CBA}
+	EndGlobalSection
+EndGlobal
